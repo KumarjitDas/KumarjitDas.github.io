@@ -35,6 +35,7 @@ Make sure you have Node.js and pnpm installed.
    ```
 
 3. Start the development server:
+
    ```bash
    pnpm run dev
    ```
@@ -54,5 +55,5 @@ This project is licensed under the BSD 3-Clause License - see the [LICENSE.txt](
 ## Contact
 
 - Twitter: [@kumarjitdas1902](https://x.com/kumarjitdas1902)
-- LinkedIn: [Kumarjit Das](https://www.linkedin.com/in/kumarjit-das)
+- LinkedIn: [kumarjit-das](https://www.linkedin.com/in/kumarjit-das)
 - E-Mail: [kumarjitdas1999@gmail.com](mailto:kumarjitdas1999+github@gmail.com)

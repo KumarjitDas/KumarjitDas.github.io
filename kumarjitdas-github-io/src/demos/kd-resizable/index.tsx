@@ -18,8 +18,8 @@ function Panel({ label, hint }: { label: string; hint?: string }) {
   );
 }
 
-function KDResizable() {
-  return <>KDResizable</>;
+function KdResizable() {
+  return <>KdResizable</>;
   //   return (
   //     <div className="demo-root">
   //       <header className="demo-header">
@@ -115,4 +115,4 @@ function KDResizable() {
   //   );
 }
 
-export default KDResizable;
+export default KdResizable;

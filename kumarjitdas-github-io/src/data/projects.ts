@@ -1,4 +1,4 @@
-import { Project } from "../../types";
+import { Project } from "../types";
 
 export const projectList: Project[] = [
   {
@@ -6,7 +6,7 @@ export const projectList: Project[] = [
     name: "kd-resizable",
     description:
       "Lightweight, accessible React resizable panel component — zero runtime dependencies beyond React.",
-    stack: ["React", "TypeScript", "npm"],
+    stack: ["React", "TypeScript", "npm", "pnpm", "Vite", "kumarjitdas"],
     repoUrl: "https://github.com/KumarjitDas/kd-resizable",
     liveUrl: "https://kumarjitdas.github.io/#/kd-resizable",
     longDescription: `A lightweight and accessible resizable panel component for React with zero runtime dependencies.

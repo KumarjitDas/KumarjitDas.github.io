@@ -5,7 +5,7 @@ import Contact from "./pages/Contact";
 import Home from "./pages/Home";
 import ProjectDetail from "./pages/ProjectDetail";
 import Projects from "./pages/Projects";
-import KDResizable from "./pages/kd-resizable";
+import KdResizable from "./demos/kd-resizable";
 import { JSX } from "react";
 
 function App(): JSX.Element {
@@ -21,7 +21,7 @@ function App(): JSX.Element {
           <Route path="/about" element={<About />} />
 
           {/* Projects Demos */}
-          <Route path="/kd-resizable" element={<KDResizable />} />
+          <Route path="/kd-resizable" element={<KdResizable />} />
         </Routes>
       </main>
     </>
